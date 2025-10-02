@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ice Puck</title>
-    <link>https://emclayburn.github.io/</link>
-    <description>Recent content on Ice Puck</description>
+    <title>Posts on Ice Puck</title>
+    <link>https://emclayburn.github.io/posts/</link>
+    <description>Recent content in Posts on Ice Puck</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://emclayburn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://emclayburn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blues Season Preview</title>
       <link>https://emclayburn.github.io/posts/blues-season-preview/</link>
